@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "http://dg.0026.store/*"
+    }
+  ]
+}
